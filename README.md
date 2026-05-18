@@ -60,7 +60,7 @@ Today, I build responsive, user-friendly frontend interfaces and I'm actively ex
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mohamed-b06016366)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ebrahim-b06016366/?locale=en_US)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jshdheh33i38@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Botol_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedebrahem99999.github.io/Botol/)
 
